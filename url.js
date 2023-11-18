@@ -6,6 +6,5 @@
  * 2. 網址請用引號包起來
  */
 const urls = [
-    'https://forms.gle/qpRPJMFf96xz8yWo9',
     'https://forms.gle/EiZs83zUPQ1kssum8'
 ];
