@@ -1,10 +1,14 @@
- /*
- * 將要隨機派發的網址放入下方（不需排序）
- *
- * 並請注意：
- * 1. 除最後一項外，其餘項目用逗號分隔
- * 2. 網址請用引號包起來
- */
-const urls = [
-    "https://forms.gle/f2YEJkJDLk4wj76p9",
+ ㄏ",
+    "https://forms.gle/ekKUbvEPvM9ZYtqT7",
+    "https://forms.gle/ptMGZRFc8RpEVmpt8",
+    "https://forms.gle/GHiRTfmjKyZW8qBm7",
+    "https://forms.gle/N62SWcuuSr8DmLZf6",
+    "https://forms.gle/egDoL3BozLW7jsRv8",
+    "https://forms.gle/4Encjmp1yjBnsiSH9",
+    "https://forms.gle/GnzjBMv2ptnsvvAi9",
+    "https://forms.gle/5fW1CzyvLsC5W13a6",
+    "https://forms.gle/f9oCTqvTP2gLAkbP8",
+    "https://forms.gle/EvtgYvpkBEi7iqZ17",
+    "https://forms.gle/LWwK1wYz7CQShPiv9",
+    "https://forms.gle/UUzEw1C5voQUoZTP6",
 ];
