@@ -1,4 +1,4 @@
- ㄏ",
+ const urls = [
     "https://forms.gle/ekKUbvEPvM9ZYtqT7",
     "https://forms.gle/ptMGZRFc8RpEVmpt8",
     "https://forms.gle/GHiRTfmjKyZW8qBm7",
