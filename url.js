@@ -1,4 +1,4 @@
 const urls = [
-        "https://forms.gle/T5nrgnLwujCZZdfj9",
+        "https://forms.gle/afDxDhquMWct9b7T9",
 ];
 
